@@ -6,6 +6,8 @@
 - 💬 Ask me about SQL, Tableau, Data Visualization, working as a data analyst and data scientist
 - 📫 How to reach me: beacon.ai/vavasjc or mailto:evaristo.ssm@gmail.com 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vavasjc&show_icons=True&count_private=True&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **vavasjc/vavasjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
