@@ -1,10 +1,9 @@
-### Hi there! It's a pleasure having you into my GitHub profile! My name is Evaristo and I'm a data science and analytics professional. I work @ Afiniti as a Client Data Services Senior Associate. 👋
+### Hi there! It's a pleasure having you into my GitHub profile! My name is Evaristo and I'm a data scientist. I currently work @ Finecast, a GroupM Company. 👋
 
-- 🔭 I’m currently working on Survivability Analysis with Python using the lifelines package.
-- 🌱 I’m currently learning Machine Learning on Python on Datacamp.
-- 🤔 I’m looking for help with Kaggle projects. I really want to broaden my horizons detecting opportunities to use models.
-- 💬 Ask me about SQL, Tableau, Data Visualization, working as a data analyst and data scientist
-- 📫 How to reach me: beacon.ai/vavasjc or mailto:evaristo.ssm@gmail.com 
+- 🔭 I’m currently working on Airflow Pipelines, Looker Reports and Survivability Analysis with Python using the lifelines package.
+- 🌱 I’m currently learning by studying @ Datacamp, e.g.: Time Series Analysis and Forecasting.
+- 💬 Ask me about SQL, Tableau, Looker, Data Visualization, working as a data analyst, engineer and data scientist
+- 📫 How to reach me: beacon.ai/vavasjc or mailto:evaristo.ssm@gmail.com or PM me at https://linkedin.com/in/evaristo.moreira
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vavasjc&show_icons=True&count_private=True&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
