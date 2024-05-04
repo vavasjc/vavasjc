@@ -1,7 +1,7 @@
-### Hi there! It's a pleasure having you into my GitHub profile! My name is Evaristo and I'm a data scientist. I currently work @ Finecast, a GroupM Company. 👋
+### Hi there! It's a pleasure having you into my GitHub profile! My name is Evaristo and I'm a data scientist. I currently work @ Nexus, a GroupM Company. 👋
 
 - 🔭 I’m currently working on Airflow Pipelines, Looker Reports and Survivability Analysis with Python using the lifelines package.
-- 🌱 I’m currently learning by studying @ Datacamp, e.g.: Time Series Analysis and Forecasting.
+- 🌱 I’m currently enroleld to MBA @ Esalq, USP, and doing some MOOCs in datacamp e.g.: LLM, Airflow and Forecasting with Time Series.
 - 💬 Ask me about SQL, Tableau, Looker, Data Visualization, working as a data analyst, engineer and data scientist
 - 📫 How to reach me: beacon.ai/vavasjc or mailto:evaristo.ssm@gmail.com or PM me at https://linkedin.com/in/evaristo.moreira
 
