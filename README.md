@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Airflow Pipelines, Looker Reports and Survivability Analysis with Python using the lifelines package.
 - 🌱 I’m currently enroleld to MBA @ Esalq, USP, and doing some MOOCs in datacamp e.g.: LLM, Airflow and Forecasting with Time Series.
 - 💬 Ask me about SQL, Tableau, Looker, Data Visualization, working as a data analyst, engineer and data scientist
-- 📫 How to reach me: beacon.ai/vavasjc or mailto:evaristo.ssm@gmail.com or PM me at https://linkedin.com/in/evaristo.moreira
+- 📫 How to reach me: mailto:evaristo.ssm@gmail.com or PM me at https://linkedin.com/in/evaristo.moreira
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vavasjc&show_icons=True&count_private=True&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
